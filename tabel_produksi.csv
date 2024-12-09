@@ -1,0 +1,21 @@
+id_produksi,tanggal_produksi,id_produk,jumlah_diproduksi,biaya_produksi,keterangan
+1,1/1/24,104,352,2310.1,Produksi reguler
+2,1/6/24,104,644,1514.1,Produksi tambahan
+3,1/11/24,101,255,4018.9,Produksi tambahan
+4,1/16/24,103,584,1174.7,Produksi reguler
+5,1/21/24,101,482,1098.4,Produksi tambahan
+6,1/26/24,104,500,1417.6,Produksi tambahan
+7,1/31/24,103,608,1563.6,Produksi tambahan
+8,2/5/24,105,100,3242.2,Produksi reguler
+9,2/10/24,105,523,1798.1,Produksi awal
+10,2/15/24,104,541,3129.5,Produksi awal
+11,2/20/24,103,834,1846,Produksi awal
+12,2/25/24,104,879,2488,Produksi reguler
+13,3/1/24,101,530,4147.3,Produksi reguler
+14,3/6/24,104,153,3039.4,Produksi reguler
+15,3/11/24,105,644,2671.9,Produksi tambahan
+16,3/16/24,105,859,3808.6,Produksi awal
+17,3/21/24,102,319,1518.4,Produksi awal
+18,3/26/24,103,149,2506.6,Produksi reguler
+19,3/31/24,103,213,3992.2,Produksi awal
+20,4/5/24,104,264,3495.3,Produksi tambahan

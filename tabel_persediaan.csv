@@ -1,0 +1,21 @@
+id_persediaan,id_produk,jumlah_stok,lokasi_gudang,tanggal_update,keterangan
+1,105,341,Gudang B,1/1/24,Stok diperbarui
+2,102,275,Gudang A,1/4/24,Stok hampir habis
+3,104,339,Gudang C,1/7/24,Stok diperbarui
+4,104,109,Gudang A,1/10/24,Stok diperbarui
+5,102,376,Gudang B,1/13/24,Stok hampir habis
+6,103,273,Gudang C,1/16/24,Stok diperbarui
+7,104,814,Gudang C,1/19/24,Stok tersedia
+8,104,644,Gudang B,1/22/24,Stok hampir habis
+9,105,281,Gudang A,1/25/24,Stok tersedia
+10,103,716,Gudang C,1/28/24,Stok diperbarui
+11,104,565,Gudang A,1/31/24,Stok tersedia
+12,104,679,Gudang B,2/3/24,Stok tersedia
+13,101,751,Gudang A,2/6/24,Stok diperbarui
+14,101,352,Gudang C,2/9/24,Stok hampir habis
+15,102,311,Gudang A,2/12/24,Stok diperbarui
+16,104,154,Gudang C,2/15/24,Stok tersedia
+17,104,256,Gudang C,2/18/24,Stok tersedia
+18,104,187,Gudang A,2/21/24,Stok hampir habis
+19,105,289,Gudang B,2/24/24,Stok hampir habis
+20,102,736,Gudang C,2/27/24,Stok tersedia

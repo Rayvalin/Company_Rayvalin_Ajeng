@@ -1,0 +1,21 @@
+id_penjualan,tanggal_penjualan,id_produk,jumlah_terjual,harga_jual,total_penjualan,keterangan
+1,1/2/24,101,129,31,4054,Pembayaran kartu
+2,1/9/24,104,243,15,3570,Pembayaran kartu
+3,1/16/24,104,282,42,11948,Pembayaran kartu
+4,1/23/24,103,67,19,1288,Pembayaran kartu
+5,1/30/24,101,294,32,9502,Pembayaran kartu
+6,2/6/24,104,128,39,4998,Pembayaran tunai
+7,2/13/24,102,57,40,2261,Pembayaran transfer
+8,2/20/24,104,221,30,6586,Pembayaran kartu
+9,2/27/24,101,143,27,3791,Pembayaran tunai
+10,3/5/24,101,93,41,3832,Pembayaran kartu
+11,3/12/24,104,224,13,2822,Pembayaran kartu
+12,3/19/24,105,67,45,2983,Pembayaran kartu
+13,3/26/24,105,133,49,6521,Pembayaran kartu
+14,4/2/24,101,269,20,5415,Pembayaran transfer
+15,4/9/24,105,68,48,3261,Pembayaran tunai
+16,4/16/24,105,247,29,7215,Pembayaran tunai
+17,4/23/24,105,72,44,3135,Pembayaran tunai
+18,4/30/24,102,188,30,5612,Pembayaran tunai
+19,5/7/24,104,238,40,9411,Pembayaran tunai
+20,5/14/24,102,244,19,4595,Pembayaran kartu
